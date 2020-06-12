@@ -1,7 +1,7 @@
 const Telegraf=require('telegraf')
-const bot=new Telegraf('1214151473:AAGfxS3VnsbaHxY7IvwWpEVCOXJi4lgMikM')
+const bot=new Telegraf('')
 var Owlbot = require('owlbot-js')
-var client = Owlbot('981a17426e2caa21ff941e8fc7fea382d03f5aa9') 
+var client = Owlbot('') 
 const fetch = require('node-fetch');
 const {quiz}=require("./js/quiz.js")
 const {CquizP}=require("./js/CquizP.js")
