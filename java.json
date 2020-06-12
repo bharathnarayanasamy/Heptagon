@@ -1,0 +1,85 @@
+[
+  {
+   "ques":" Which of these class is superclass of String and StringBuffer class?",
+   "id":1,
+   "options":["java.util","java.lang","ArrayList","None of the mentioned"],
+   "ans":1
+  },
+  {
+    "ques":"Which of these operators can be used to concatenate two or more String objects?",
+    "id":2,
+    "options":["+","+=","&","||"],
+    "ans":0
+   },
+   {
+    "ques":" Which of this method of class String is used to obtain a length of String object?",
+    "id":3,
+    "options":["get()","Sizeof()","lengthof()","length()"],
+    "ans":3
+   },
+   {
+    "ques":"Which of these methods is used to compare a specific region inside\n a string with another specific region in another string?",
+    "id":4,
+    "options":["regionMatch()","match()","RegionMatches()","regionMatches()"],
+    "ans":3
+   },
+   {
+    "ques":"Which of these data type value is returned by equals() method of String class?",
+    "id":5,
+    "options":["char","int","boolean"," All of the mentioned"],
+    "ans":2
+   },{
+   "ques":"What will s2 contain after following lines of code?\nString s1 = “one”;\nString s2 = s1.concat(“two”)",
+   "id":6,
+   "options":["onetwo","two","twoone","two"],
+   "ans":0
+  },
+  {
+    "ques":"Which of these method of class String is used to remove leading and trailing whitespaces?",
+    "id":7,
+    "options":["startsWith()","trim()","Trim()","doTrim()"],
+    "ans":1
+   },
+   {
+    "ques":"Which of these method of class StringBuffer is used to extract a substring from a String object?",
+    "id":8,
+    "options":["subString()","substring()","SubString()","None of the above"],
+    "ans":1
+   },
+   {
+    "ques":"String implementation follows which of the below design pattern?",
+    "id":9,
+    "options":["Flyweight Design Pattern","Factory Pattern","Singleton Pattern"," None of the above"],
+    "ans":0
+   },
+   {
+    "ques":"What will be the output of below statements?\nString s1 = 'abc';\nString s2 = 'def';\nSystem.out.println(s1.compareTo(s2));",
+    "id":10,
+    "options":["0","true","-3","Error"],
+    "ans":3
+   },
+   {
+    "ques":"Select the interfaces which does not implemented by String class.",
+    "id":11,
+    "options":["Serializable","Comparable","Constable","Cloneable"],
+    "ans":3
+   },
+   {
+    "ques":"Select the class that extend String class.",
+    "id":12,
+    "options":["StringBuffer","StringBuilder","StringWriter","None"],
+    "ans":3
+   },
+   {
+    "ques":"String in Java is a?",
+    "id":13,
+    "options":["object","class","variable","Character array"],
+    "ans":1
+   },
+   {
+    "ques":" _____ is used to find and fix bugs in the Java programs.",
+    "id":14,
+    "options":["JVM","JRE","JDK","JDB"],
+    "ans":3
+   }
+]

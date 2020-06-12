@@ -1,0 +1,85 @@
+[
+    {
+     "ques":"Which of the following are C preprocessors?",
+     "id":1,
+     "options":["#ifdef","#define","#endif","all of the mentioned"],
+     "ans":3
+    },
+    {
+      "ques":"#include statement must be written __________",
+      "id":2,
+      "options":["Before main()","Before any scanf/printf","After main()","It can be written anywhere"],
+      "ans":1
+     },
+     {
+      "ques":"The C-preprocessors are specified with _________symbol.",
+      "id":3,
+      "options":["#","$"," ” ”","&"],
+      "ans":0
+     },
+     {
+      "ques":"C preprocessors can have compiler specific features.",
+      "id":4,
+      "options":["True","False","Depends on the standard"," Depends on the platform"],
+      "ans":0
+     },{
+     "ques":" C preprocessor is conceptually the first step during compilation.",
+     "id":5,
+     "options":["False","True","Depends on the compiler","Depends on the standard"],
+     "ans":0
+    },
+    {
+      "ques":"Which of the following statements correctly declare a function that receives a pointer to pointer to a pointer to a float and returns a pointer to a pointer to a pointer to a pointer to a float?",
+      "id":6,
+      "options":["float **fun(float***);","float *fun(float**);","float fun(float***);","float ****fun(float***);"],
+      "ans":3
+     },
+     {
+      "ques":"Preprocessor feature that supply line numbers and filenames to compiler is called?",
+      "id":7,
+      "options":["Selective inclusion","macro substitution","Concatenation"," Line control"],
+      "ans":3
+     },
+     {
+      "ques":" What are the types of C Preprocessor Directives.?",
+      "id":8,
+      "options":["Macros","Conditional Compilation","File Inclusion","All the above"],
+      "ans":3
+     },
+     {
+      "ques":"What is the another name for .C file.?",
+      "id":9,
+      "options":["Executable code","Source Code","Distributable Code","Macro code"],
+      "ans":2
+     },
+     {
+      "ques":"What is the keyword used to define a C macro.?",
+      "id":10,
+      "options":["def","definition","define","defy"],
+      "ans":2
+     },
+     {
+      "ques":"What is the C keyword used to create global Constants.?",
+      "id":11,
+      "options":["constant","definition","def","define"],
+      "ans":3
+     },
+     {
+      "ques":"What is the output file generated after processing a .C file.?",
+      "id":12,
+      "options":[".h file",".exe file",".cp file",".bak file"],
+      "ans":1
+     },
+     {
+      "ques":"How do you separate a multiline macro in C language.?",
+      "id":13,
+      "options":["Using / operator","Using * operator","Using % operator","Using + operator"],
+      "ans":0
+     },
+     {
+      "ques":"What is the command to preprocess a C file manually.?",
+      "id":14,
+      "options":["pp abc.c","cpp abc.c","exp abc.c","op abc.c"],
+      "ans":1
+     }
+  ]

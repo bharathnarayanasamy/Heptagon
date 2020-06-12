@@ -1,0 +1,61 @@
+[
+  {
+   "ques":"What is (void*)0?",
+   "id":1,
+   "options":["Representation of NULL pointer","Representation of void pointer","Error","None of above"],
+   "ans":0
+  },
+  {
+    "ques":"If a variable is a pointer to a structure, then which of the following operator is used to access data members of the structure through the pointer variable?",
+    "id":2,
+    "options":[".","&","*","->"],
+    "ans":3
+   },
+   {
+    "ques":"What would be the equivalent pointer expression for referring the array element a[i][j][k][l]",
+    "id":3,
+    "options":["((((a+i)+j)+k)+l)","*(*(*(*(a+i)+j)+k)+l)","*(*(*(*(a+i)+j)+k)+l)","((a+i)+j+k+l)"],
+    "ans":1
+   },
+   {
+    "ques":"A pointer is",
+    "id":4,
+    "options":["A keyword used to create variables","A variable that stores address of an instruction","A variable that stores address of other variable","All of the above"],
+    "ans":2
+   },
+   {
+    "ques":"The operator used to get value at address stored in a pointer variable is",
+    "id":5,
+    "options":["*","&","&&","||"],
+    "ans":0
+   },{
+   "ques":"Which of the following statements correct about k used in the below statement?\nchar ****k;",
+   "id":6,
+   "options":["k is a pointer to a pointer to a pointer to a char","k is a pointer to a pointer to a pointer to a pointer to a char","k is a pointer to a char pointer","k is a pointer to a pointer to a char"],
+   "ans":1
+  },
+  {
+    "ques":"Which of the following statements correctly declare a function that receives a pointer to pointer to a pointer to a float and returns a pointer to a pointer to a pointer to a pointer to a float?",
+    "id":7,
+    "options":["float **fun(float***);","float *fun(float**);","float fun(float***);","float ****fun(float***);"],
+    "ans":3
+   },
+   {
+    "ques":"What is wild pointer?",
+    "id":8,
+    "options":["Pointer which is wild in nature","Pointer which has no value.","Pointer which is not initialized","None"],
+    "ans":2
+   },
+   {
+    "ques":"Address stored in the pointer variable is of type __________.",
+    "id":9,
+    "options":["Integer","Float","Array","Character"],
+    "ans":0
+   },
+   {
+    "ques":"In order to fetch the address of the variable we write preceding _________ sign before variable name.",
+    "id":10,
+    "options":[" Percent(%)","Comma(,)","Ampersand(&)","Asteric(*)"],
+    "ans":2
+   }
+]

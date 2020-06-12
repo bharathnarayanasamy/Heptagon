@@ -1,0 +1,86 @@
+[
+    {
+     "ques":" Which interface does java.util.Hashtable implement?",
+     "id":1,
+     "options":["Java.util.Map","Java.util.List","Java.util.HashTable","Java.util.Collection"],
+     "ans":0
+    },
+    {
+      "ques":"Which interface provides the capability to store objects using a key-value pair?",
+      "id":2,
+      "options":["Java.util.Collections","Java.util.Set","Java.util.Map","Java.util.List"],
+      "ans":2
+     },
+     {
+      "ques":"Which is valid declaration of a float?",
+      "id":3,
+      "options":["float f = 1F;","float f = 1.0;","float f = 1;","float f = 1.0d;"],
+      "ans":3
+     },
+     {
+      "ques":"The collection",
+      "id":4,
+      "options":["extends Collections class","extends Iterable interface","implements Serializable interface","implements Traversable interface"],
+      "ans":1
+     },
+     {
+      "ques":"The collection is a ____________",
+      "id":5,
+      "options":["framework and interface","framework and class","only interface","only class"],
+      "ans":0
+     },
+     {
+     "ques":"List, Set and Queue __________ Collection.",
+     "id":6,
+     "options":["implements","extends","both of the above","none of the above"],
+     "ans":1
+    },
+    {
+      "ques":"Which among the following maintains the insertion order of the elements?",
+      "id":7,
+      "options":["Map","Set","List","All the above"],
+      "ans":2
+     },
+     {
+      "ques":"Which among the following Sets maintains insertion order?",
+      "id":8,
+      "options":["HashSet","TreeSet","LinkedHashSet","Both B & C"],
+      "ans":2
+     },
+     {
+      "ques":"Iterator and ListIterator can traverse over",
+      "id":9,
+      "options":["maps","lists","sets","All the above"],
+      "ans":1
+     },
+     {
+      "ques":" Elements of which of the collection can be traversed using Enumeration?",
+      "id":10,
+      "options":["ArrayList","HashSet","TreeMap","Vector"],
+      "ans":3
+     },
+     {
+      "ques":"Which of the following collection is not of Iterable type?",
+      "id":11,
+      "options":["HashMap","Vector","TreeSet"," ArrayList"],
+      "ans":0
+     },
+     {
+      "ques":"Each tree based collection assumes its elements to be of --- type?",
+      "id":12,
+      "options":["Serializable","Comparable","Comparator","Sortable"],
+      "ans":1
+     },
+     {
+      "ques":"Which method of the Iterator throws ConcurrentModificationException?",
+      "id":13,
+      "options":["hasNext()","remove()","next()","hasnext()"],
+      "ans":2
+     },
+     {
+      "ques":"Which of the following class doesn’t implement the Set interface?",
+      "id":14,
+      "options":["LinkedHashSet","HashSet","TreeSet","None of the above"],
+      "ans":3
+     }
+  ]
